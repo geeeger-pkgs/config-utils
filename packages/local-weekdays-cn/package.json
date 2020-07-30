@@ -1,0 +1,32 @@
+{
+  "author": "geeeger",
+  "description": "simplified Chinese weekdays map",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "date-utils"
+  ],
+  "license": "ISC",
+  "main": "lib/index.js",
+  "name": "@geeeger/local-weekdays-cn",
+  "homepage": "https://github.com/geeeger-pkgs/date-utils#readme",
+  "bugs": {
+    "url": "https://github.com/geeeger-pkgs/date-utils/issues",
+    "email": "lph1988520@sina.com"
+  },
+  "private": false,
+  "scripts": {
+    "build": "tsc --pretty",
+    "prepare": "npm run build"
+  },
+  "typings": "lib/index.d.ts",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}
