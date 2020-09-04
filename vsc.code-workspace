@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "✨ root",
+			"path": "."
+		},
+		{
+			"name": "📦 @geeeger/get-gmt8-local-date",
+			"path": "packages\\get-gmt8-local-date"
+		},
+		{
+			"name": "📦 @geeeger/local-month-cn",
+			"path": "packages\\local-month-cn"
+		},
+		{
+			"name": "📦 @geeeger/local-month-en",
+			"path": "packages\\local-month-en"
+		},
+		{
+			"name": "📦 @geeeger/local-weekdays-cn",
+			"path": "packages\\local-weekdays-cn"
+		},
+		{
+			"name": "📦 @geeeger/local-weekdays-en",
+			"path": "packages\\local-weekdays-en"
+		}
+	],
+	"settings": {}
+}
