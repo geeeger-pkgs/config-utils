@@ -2,7 +2,7 @@
   "author": "geeeger",
   "description": "simplified Chinese weekdays map",
   "devDependencies": {
-    "typescript": "^3.7.2"
+    "typescript": "^4.0.3"
   },
   "files": [
     "lib"

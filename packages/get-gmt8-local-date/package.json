@@ -2,7 +2,7 @@
   "author": "geeeger",
   "description": "use unix timestamp to get gmt8 local date",
   "devDependencies": {
-    "typescript": "^3.7.2"
+    "typescript": "^4.0.3"
   },
   "files": [
     "lib"
