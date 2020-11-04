@@ -5,10 +5,6 @@
 			"path": "."
 		},
 		{
-			"name": "📦 @geeeger/get-gmt8-local-date",
-			"path": "packages\\get-gmt8-local-date"
-		},
-		{
 			"name": "📦 @geeeger/local-month-cn",
 			"path": "packages\\local-month-cn"
 		},

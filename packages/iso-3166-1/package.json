@@ -1,6 +1,6 @@
 {
   "author": "geeeger",
-  "description": "use unix timestamp to get gmt8 local date",
+  "description": "iso-3166-1国家中英文对照, 自用",
   "devDependencies": {
     "typescript": "^3.7.2"
   },
@@ -8,14 +8,14 @@
     "lib"
   ],
   "keywords": [
-    "date-utils"
+    "config-utils"
   ],
   "license": "ISC",
   "main": "lib/index.js",
-  "name": "@geeeger/get-gmt8-local-date",
-  "homepage": "https://github.com/geeeger-pkgs/date-utils#readme",
+  "name": "@geeeger/iso-3166-1",
+  "homepage": "https://github.com/geeeger-pkgs/config-utils#readme",
   "bugs": {
-    "url": "https://github.com/geeeger-pkgs/date-utils/issues",
+    "url": "https://github.com/geeeger-pkgs/config-utils/issues",
     "email": "lph1988520@sina.com"
   },
   "private": false,
