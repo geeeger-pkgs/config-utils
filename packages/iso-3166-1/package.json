@@ -2,7 +2,7 @@
   "author": "geeeger",
   "description": "iso-3166-1国家中英文对照, 自用",
   "devDependencies": {
-    "typescript": "^3.7.2"
+    "typescript": "^4.1.5"
   },
   "files": [
     "lib"
