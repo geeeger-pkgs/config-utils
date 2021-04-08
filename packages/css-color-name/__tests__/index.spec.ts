@@ -1,6 +1,6 @@
 import target from '../src';
 
-describe('@geeeger/iso-3166-1 module', () => {
+describe('@geeeger/css-color-name module', () => {
   it('should exist', () => {
     expect(target).toBeDefined();
   });

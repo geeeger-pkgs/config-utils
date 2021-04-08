@@ -1,6 +1,6 @@
 {
   "author": "geeeger",
-  "description": "english month map",
+  "description": "css support color name",
   "devDependencies": {
     "typescript": "^4.2.4"
   },
@@ -12,7 +12,7 @@
   ],
   "license": "ISC",
   "main": "lib/index.js",
-  "name": "@geeeger/local-month-en",
+  "name": "@geeeger/css-color-name",
   "homepage": "https://github.com/geeeger-pkgs/config-utils#readme",
   "bugs": {
     "url": "https://github.com/geeeger-pkgs/config-utils/issues",
@@ -23,14 +23,14 @@
     "type": "git",
     "url": "https://github.com/geeeger-pkgs/config-utils.git"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "build": "tsc --pretty",
     "prepare": "npm run build"
   },
   "typings": "lib/index.d.ts",
-  "version": "1.0.3",
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org"
-  }
+  "version": "1.0.3"
 }
