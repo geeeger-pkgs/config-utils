@@ -21,6 +21,7 @@
     "format": "prettier --write \"**/*.ts\"  \"!**/lib/**\"",
     "lint": "eslint \"packages/**/{src,__tests__}/**/*.ts\" -f eslint-formatter-friendly",
     "build": "lerna run build",
+    "publish": "lerna publish",
     "create": "yo lerna-typescript:package"
   },
   "dependencies": {}
