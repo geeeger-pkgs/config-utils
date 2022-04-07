@@ -1,3 +1,4 @@
+// for old keyCode values
 enum KeyCodeMap {
     Tab = 9,
     Enter = 13,
