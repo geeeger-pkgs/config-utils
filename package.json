@@ -22,7 +22,7 @@
     "lint": "eslint \"packages/**/{src,__tests__}/**/*.ts\" -f eslint-formatter-friendly",
     "build": "lerna run build",
     "release": "lerna publish --registry https://registry.npmjs.org",
-    "create": "yo lerna-typescript:package"
+    "create": "node ./scripts/create.mjs"
   },
   "dependencies": {}
 }
