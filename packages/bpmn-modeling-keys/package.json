@@ -1,0 +1,36 @@
+{
+  "author": "geeeger",
+  "description": "some_description",
+  "devDependencies": {
+    "typescript": "4.6.3"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "config-utils"
+  ],
+  "license": "ISC",
+  "main": "lib/index.js",
+  "name": "@geeeger/bpmn-modeling-keys",
+  "homepage": "https://github.com/geeeger-pkgs/config-utils#readme",
+  "bugs": {
+    "url": "https://github.com/geeeger-pkgs/config-utils/issues",
+    "email": "lph1988520@sina.com"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geeeger-pkgs/config-utils.git"
+  },
+  "scripts": {
+    "build": "tsc --pretty",
+    "prepare": "npm run build"
+  },
+  "typings": "lib/index.d.ts",
+  "version": "1.4.0",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}
