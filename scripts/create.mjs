@@ -51,11 +51,13 @@ writeJSON(`./packages/${name}/package.json`, {
     name: `@geeeger/${name}`,
 })
 
-writeJSON(`./packages/${name}/package-lock.json`, {
-    name: `@geeeger/${name}`,
-    packages: {
-        "": {
-			"name": `@geeeger/${name}`
-		}
-    }
-})
+fs.removeSync(`./packages/${name}/package-lock.json`)
+
+// writeJSON(`./packages/${name}/package-lock.json`, {
+//     name: `@geeeger/${name}`,
+//     packages: {
+//         "": {
+// 			"name": `@geeeger/${name}`
+// 		}
+//     }
+// })
