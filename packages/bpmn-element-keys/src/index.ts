@@ -52,6 +52,7 @@ export default {
         BoundaryEvent: 'bpmn:BoundaryEvent',
         Group: 'bpmn:Group',
         TextAnnotation: 'bpmn:TextAnnotation',
+        MultiInstanceLoopCharacteristics: 'bpmn:MultiInstanceLoopCharacteristics',
     },
     label: 'label',
     ParticipantMultiplicityMarker: 'ParticipantMultiplicityMarker',
