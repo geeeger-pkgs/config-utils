@@ -67,6 +67,11 @@ export default {
         Connector: 'activiti:Connector',
         Field: 'activiti:Field',
     },
+    flowable: {
+        FailedJobRetryTimeCycle: 'flowable:FailedJobRetryTimeCycle',
+        Connector: 'flowable:Connector',
+        Field: 'flowable:Field',
+    },
     label: 'label',
     ParticipantMultiplicityMarker: 'ParticipantMultiplicityMarker',
     SubProcessMarker: 'SubProcessMarker',
