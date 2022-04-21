@@ -28,7 +28,7 @@
     "prepare": "npm run build"
   },
   "typings": "lib/index.d.ts",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
