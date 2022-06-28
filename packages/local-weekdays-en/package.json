@@ -2,7 +2,7 @@
   "author": "geeeger",
   "description": "English weekdays map",
   "devDependencies": {
-    "typescript": "4.6.3"
+    "typescript": "4.7.4"
   },
   "files": [
     "lib"
